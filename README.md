@@ -13,6 +13,9 @@ Projeyi çalıştırmak ve test etmek için sırasıyla:
 <br>
 4)Daha sonraki adımları ekrandaki yönlendirmeler ile yapabilirsiniz.
 <br>
+<h2>
+Video link:https://youtu.be/7Xy43XsnPw0
+</h2>
 <h1>
 Kişisel Bilgiler
 </h1>
